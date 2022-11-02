@@ -13,14 +13,14 @@ Made with React.
 
 ## Server & API
 
-https://github.com/Glyphack/tortuga
+https://github.com/Glyphack/tortugack
 
 ## Contribution
 
 I would appreciate any form of feedback or comment.<br />
 Also if you found a bug  or you want a new feature please open an issue 🙏<br />
 You can contact me if you have any question<br />
-discord id: Frostack#4859
+
 
 ## Available Scripts
 
@@ -35,9 +35,6 @@ Builds the app for production to the build folder.
 
 ## Credits
 
-Frontend Developer: [Frostack](https://github.com/Frostack)<br />
-Backend Developer: [Glyphack](https://github.com/Glyphack)
+Frontend Developer: [Ayan](https://github.com/ayanckb2016)<br />
+Backend Developer: [Kanad](https://github.com/CodingwithIITian007)
 
-## Licence
-
-This project is licensed under the MIT license. See the [LICENSE](https://github.com/Frostack/tortugack-client/blob/master/LICENSE) file for more info.
