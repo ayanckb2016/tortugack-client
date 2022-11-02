@@ -13,7 +13,7 @@ Made with React.
 
 ## Server & API
 
-https://github.com/Glyphack/tortugack
+https://github.com/Glyphack/tortuga
 
 ## Contribution
 
@@ -36,5 +36,5 @@ Builds the app for production to the build folder.
 ## Credits
 
 Frontend Developer: [Ayan](https://github.com/ayanckb2016)<br />
-Backend Developer: [Kanad](https://github.com/CodingwithIITian007)
+Backend Developer: [Frustak](htts://github.com/frustak)
 
